@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyTelegramBot
-build_property.ProjectDir = C:\Users\maxx5\OneDrive\Рабочий стол\MyTelegramBot\
+build_property.ProjectDir = C:\Users\maxx5\OneDrive\Рабочий стол\Проекты\MyTelegramBot\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
